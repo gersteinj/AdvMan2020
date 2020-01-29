@@ -38,8 +38,16 @@ Final Project
 ---
 # Onshape Review
 ---
+## Join the New Classroom
+
+* 3-4B: 3ikshil
+---
 ### Remember to return mice!
 ---
-## Classroom codes:
+## Directions
 
-3-4B: 3ikshil
+* Go to new classroom
+* Go to assignment
+* Use Onshape to model the part provided
+* Submit in the Classroom assignment as a share link. **No other submission format will be accepted**
+* Remember to return your mouse to the appropriate numbered pocket
