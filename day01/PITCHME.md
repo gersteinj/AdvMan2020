@@ -41,6 +41,7 @@ Final Project
 ## Join the New Classroom
 
 * 3-4B: 3ikshil
+* 7-8B: vsbmoeu
 ---
 ### Remember to return mice!
 ---
